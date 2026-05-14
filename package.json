@@ -1,0 +1,8 @@
+{
+  "name": "questlife-monorepo",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ]
+}
